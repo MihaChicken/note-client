@@ -1,0 +1,16 @@
+@import "variables";
+
+.note {
+  margin-bottom: $vertical-margin;
+
+  .cardActions {
+    text-align: right;
+  }
+
+  .cardHeader {
+    span {
+      max-height: 1.1em;
+      overflow: hidden;
+    }
+  }
+}

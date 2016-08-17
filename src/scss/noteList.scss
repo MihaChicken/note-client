@@ -1,0 +1,16 @@
+@import "variables";
+
+.emptyList {
+  text-align: center;
+  width: 100%;
+}
+
+.searchBox {
+  margin-bottom: $vertical-margin;
+}
+
+.floatButton {
+  position: fixed;
+  right: 75px;
+  bottom: 75px;
+}
